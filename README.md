@@ -23,7 +23,7 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://gwynbleidd0014.github.io/nft-preview-card-component/)
+- Live Site URL: [Click to view live website](https://gwynbleidd0014.github.io/nft-preview-card-component/)
 
 ### Built with
 
