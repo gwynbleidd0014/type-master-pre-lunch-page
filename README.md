@@ -19,7 +19,7 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 
 ### Screenshot
 
-![Preview](./design/desktop-design.jpg)
+![Preview](./preview.jpg)
 
 ### Links
 
